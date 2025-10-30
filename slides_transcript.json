@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Slide 1",
+    "start_sec": 0.0,
+    "end_sec": 40.699,
+    "text": "Good afternoon everyone. Today we are going to talk about protein folding and how its distribution can lead to disease. Proteins need to adopt a specific three-dimensional structure in order to function properly. When this process fails, it can cause aggregation and cellular stress, which is a common feature which are in many neurodegenerative disorders such as Alzheimer's and Parkinson's."
+  },
+  {
+    "name": "Slide 2",
+    "start_sec": 40.699,
+    "end_sec": 60.919,
+    "text": "There are molecular chaperones in the cell that help proteins fold correctly. However, when these systems are overhelmed, misfolded proteins accumulate and may become toxic."
+  },
+  {
+    "name": "Slide 2",
+    "start_sec": 60.919,
+    "end_sec": 84.006349,
+    "text": "We will also discuss how bioinformatics tools can predict protein structure and identify potential disordered regions. These predictions are essential for understanding protein function and designing targeted traputhic."
+  }
+]
